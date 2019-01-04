@@ -8,6 +8,7 @@
 
 static char *font = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
 static int borderpx = 1;
+const int boxdraw = 1;
 
 /*
  * What program is execed by st depends of these precedence rules:
